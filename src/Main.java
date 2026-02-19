@@ -6,3 +6,9 @@ public class Main {
  System.out.println("Zipaquira");
  System.out.println("18");
 System.out.println("Horus");
+
+System.out.println("----------------------------------------------------------------");
+
+System.out.println("si, uno");
+System.out.println("Edwin Guerrero");
+System.out.println("Andrea Gomez");
